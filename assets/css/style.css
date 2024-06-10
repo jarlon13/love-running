@@ -1,3 +1,12 @@
+/* Google fonts import */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+</style>
+
+
+
+
+
 /*asterisk wildcard selector to override default style added by the browser*/
 
 *{
@@ -24,7 +33,7 @@ main{
     background-color: lightblue;
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    
+
 
 }
 
