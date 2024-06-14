@@ -39,6 +39,8 @@ header a{
     color:inherit;
 }
 
+
+
 #menu{
     font-size: 110%;
     letter-spacing: 4px;
@@ -50,7 +52,7 @@ header a{
 }
 
 .active{
-    border-bottom: solid;
+    border-bottom: solid #3a3a3a;
 }
 
 /* navbar style with dropdown toggle*/
@@ -143,7 +145,7 @@ main{
 /* Large devices (laptops and desktops 992px and up */
 @media screen and (min-width: 992px){
     #menu a:hover{
-        border-bottom: 1px sold #3a3a3a;
+        border-bottom: 1px solid #3a3a3a;
     }
 
 }

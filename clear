@@ -1,0 +1,137 @@
+[33mcommit 846c72ca52218d1286f8cfd3f31c84ef68eef9f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Thu Jun 13 21:02:24 2024 +0000
+
+    create two new files, gallery and sign up
+
+[33mcommit 3796b3fd1e4501c53182d2a5faf7e741cb23710b[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Thu Jun 13 20:03:28 2024 +0000
+
+    Style footer icons for all screen sizes
+
+[33mcommit bfc0bbf9401d8aa9f305754b5c176eed5f410afa[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Thu Jun 13 19:53:43 2024 +0000
+
+    Replaced  X logo item to a burguer logo from font awesome.
+
+[33mcommit ef0b2548c7b711741f2e1e567977b8245e1f25db[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Thu Jun 13 19:52:07 2024 +0000
+
+    Added Instagram, twitter and youtube font Awesome logos.
+
+[33mcommit be6b3d8696f77e03f6aacfb14532d2dec9017e2b[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Thu Jun 13 19:42:37 2024 +0000
+
+    Add font awesome and first footer link facebook logo
+
+[33mcommit 652cdef8d9ef9457208063061bd302e1330f8bc0[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Wed Jun 12 20:16:58 2024 +0000
+
+    Add hover effect on large screen
+
+[33mcommit 8fdfbf69e2dbd2dc1a71504f2688a860649ecbc5[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Wed Jun 12 20:09:59 2024 +0000
+
+    push main content down to accommodate larger header
+
+[33mcommit a28a79e77f258f5238dfbc34ab775e7136612944[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Wed Jun 12 20:04:12 2024 +0000
+
+    Display navbar items, hide toggle label
+
+[33mcommit 6cbbf4feac9b04553a9d55e9f24d28a1cab9116e[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Wed Jun 12 19:50:29 2024 +0000
+
+    added a margin-top to main element so it appears under the fixed header.
+
+[33mcommit 5c7894c54a31565561ff5ebb1914b661429e70f0[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Wed Jun 12 19:48:42 2024 +0000
+
+    Add menu dropdown functionality
+
+[33mcommit cba2f089845377e4708485cd81b70125905701e0[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Wed Jun 12 19:36:31 2024 +0000
+
+    Stylying navbar drop down menu and set to hidden
+
+[33mcommit 320ac52cb949c38452daf0ff498a571cbc59f185[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Tue Jun 11 21:48:41 2024 +0000
+
+    Added some codes to change menu size, letter spacing, and list-style- type
+
+[33mcommit 1f2561862ecfe57d4d540184caca66f932f252dd[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Tue Jun 11 21:40:53 2024 +0000
+
+    changing layout of logo and colors
+
+[33mcommit 8b23609132206699dc3a0760dc0fd9a9f9b3a263[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Tue Jun 11 21:28:30 2024 +0000
+
+    Styling the header for mobile devices
+
+[33mcommit 91b0111653d50f85f37f66150d4ccb9656dedf77[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Tue Jun 11 21:20:29 2024 +0000
+
+    Creat navigation section
+
+[33mcommit a4cf522b5b1304369c484abefcc1ead96927542f[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Tue Jun 11 21:14:05 2024 +0000
+
+    Add logo to heading and addes oswald font
+
+[33mcommit 6b69211379fff8d9e5a251c22ac56cf177ec94a8[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Tue Jun 11 20:43:27 2024 +0000
+
+     Add 'lato' family font-family to body style
+
+[33mcommit 1f7e9f89ff6471e424ae11a5e1d7c268ea363531[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Mon Jun 10 21:19:59 2024 +0000
+
+    Google font added to the code
+
+[33mcommit fcacb1beb547a04e9dcc1944dad8955b5b99424a[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Mon Jun 10 20:59:47 2024 +0000
+
+    push footer down using flex style
+
+[33mcommit 246c2c85b3d5c19af71e75b72bd32cc88db54e09[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Mon Jun 10 20:53:15 2024 +0000
+
+    Setting up css padding and margin
+
+[33mcommit 2ef916997159955d22176ce45b00fb8702414e9e[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Mon Jun 10 20:33:21 2024 +0000
+
+    Add meta tags for search engines
+
+[33mcommit d6e6e6385bbfa443c24faf7e41be67f57c20b6c1[m
+Author: Lucas Camilo <lucasspks@gmail.com>
+Date:   Mon Jun 10 20:11:17 2024 +0000
+
+    Create boilerplate HTML, add title and favicon
+
+[33mcommit b0ab0e8b41881a92908595d6438f66c9c949997e[m
+Author: Lucas Camilo <49624396+jarlon13@users.noreply.github.com>
+Date:   Mon Jun 10 20:54:45 2024 +0100
+
+    Initial commit
